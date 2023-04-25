@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+.arrow-image {
+  width: 20px;
+}

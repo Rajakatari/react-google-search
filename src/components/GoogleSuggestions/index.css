@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.google-logo {
+  margin-bottom: 10px;
+}
+.google-image {
+  width: 400px;
+}
+.search-input {
+  width: 95%;
+  height: 40px;
+  outline: none;
+  border: none;
+}
+.search-card {
+  width: 450px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 16px 0px #475569;
+  padding: 10px;
+}
+
+.input-search-icon-card {
+  display: flex;
+}
+
+.search-icon {
+  width: 30px;
+  align-self: center;
+}
